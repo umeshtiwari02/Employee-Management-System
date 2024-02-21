@@ -1,0 +1,7 @@
+Employee ID:adad
+Employee Name     :umesh tiwari
+Father's Name     :laxmi prasad tiwari
+Employee Contact  :4948383
+Email Information :ieie
+Employee position :software engineer
+Employee Salary   :30000

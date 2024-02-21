@@ -1,0 +1,7 @@
+Employee ID:123cs
+Employee Name     :Umesh Tiwari
+Father's Name     :Laxmi Prasad Tiwari
+Employee Contact  :998746367263
+Email Information :umesh@gmail.com
+Employee position :Software Engineer
+Employee Salary   :50,000
